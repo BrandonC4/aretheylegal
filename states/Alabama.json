@@ -1,0 +1,13 @@
+{
+  "state": "Alabama",
+  "age_of_consent": 16,
+  "close_in_age_exemption": {
+    "exists": true,
+    "details": "Allows minors aged 12-15 to engage in consensual sex with partners less than 2 years older."
+  },
+  "authority_figure_restrictions": {
+    "exists": true,
+    "details": "Illegal for school employees to engage in relations with students regardless of age."
+  },
+  "legal_notes": "Statutory rape applies when the victim is under 16 and the offender is 19+."
+}

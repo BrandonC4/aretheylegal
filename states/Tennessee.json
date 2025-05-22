@@ -1,0 +1,13 @@
+{
+  "state": "Tennessee",
+  "age_of_consent": 18,
+  "close_in_age_exemption": {
+    "exists": true,
+    "details": "4-year age gap provision for those aged 13-17."
+  },
+  "authority_figure_restrictions": {
+    "exists": true,
+    "details": "Sexual contact prohibited between persons in positions of authority and minors under 18."
+  },
+  "legal_notes": "Statutory rape applies when victim is 13-17 and perpetrator is 4+ years older."
+}

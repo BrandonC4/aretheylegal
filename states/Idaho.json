@@ -1,0 +1,13 @@
+{
+  "state": "Idaho",
+  "age_of_consent": 18,
+  "close_in_age_exemption": {
+    "exists": false,
+    "details": "No close-in-age exemptions exist in Idaho law."
+  },
+  "authority_figure_restrictions": {
+    "exists": true,
+    "details": "Enhanced penalties for those in positions of authority or trust."
+  },
+  "legal_notes": "Statutory rape applies to all sexual contact with minors under 18, regardless of consent."
+}

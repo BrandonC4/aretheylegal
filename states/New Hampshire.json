@@ -1,0 +1,13 @@
+{
+  "state": "New Hampshire",
+  "age_of_consent": 16,
+  "close_in_age_exemption": {
+    "exists": true,
+    "details": "Allows sexual contact between minors aged 13-15 and partners less than 4 years older."
+  },
+  "authority_figure_restrictions": {
+    "exists": true,
+    "details": "Sexual contact prohibited between persons in positions of authority and minors under 18."
+  },
+  "legal_notes": "Felonious sexual assault applies when victim is 13-15 and perpetrator is 4+ years older."
+}

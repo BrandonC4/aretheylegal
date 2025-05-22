@@ -1,0 +1,13 @@
+{
+  "state": "Alaska",
+  "age_of_consent": 16,
+  "close_in_age_exemption": {
+    "exists": true,
+    "details": "Partners within 3 years of age may be exempt."
+  },
+  "authority_figure_restrictions": {
+    "exists": true,
+    "details": "Authority figures are prohibited from engaging in sexual acts with minors under 18."
+  },
+  "legal_notes": "Minors under 13 cannot consent to sexual activity."
+}

@@ -1,0 +1,13 @@
+{
+  "state": "South Carolina",
+  "age_of_consent": 16,
+  "close_in_age_exemption": {
+    "exists": false,
+    "details": "No close-in-age exemptions exist in South Carolina law."
+  },
+  "authority_figure_restrictions": {
+    "exists": true,
+    "details": "Sexual contact prohibited between persons in positions of authority and students under 18."
+  },
+  "legal_notes": "Criminal sexual conduct with a minor applies when victim is under 16 and perpetrator is older."
+}

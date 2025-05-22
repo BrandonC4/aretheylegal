@@ -1,0 +1,13 @@
+{
+  "state": "North Carolina",
+  "age_of_consent": 16,
+  "close_in_age_exemption": {
+    "exists": true,
+    "details": "4-year age gap provision for those aged 13-15."
+  },
+  "authority_figure_restrictions": {
+    "exists": true,
+    "details": "Sexual contact prohibited between school personnel and students."
+  },
+  "legal_notes": "Statutory rape applies when victim is 13-15 and perpetrator is 4-6 years older (Class C felony) or 6+ years older (Class B1 felony)."
+}

@@ -1,0 +1,13 @@
+{
+  "state": "Michigan",
+  "age_of_consent": 16,
+  "close_in_age_exemption": {
+    "exists": false,
+    "details": "No close-in-age exemptions exist in Michigan law."
+  },
+  "authority_figure_restrictions": {
+    "exists": true,
+    "details": "Prohibits sexual contact between teachers/school employees and students under 18."
+  },
+  "legal_notes": "Criminal sexual conduct laws apply based on age of victim and relationship to perpetrator."
+}

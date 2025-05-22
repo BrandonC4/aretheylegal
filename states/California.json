@@ -1,0 +1,13 @@
+{
+  "state": "California",
+  "age_of_consent": 18,
+  "close_in_age_exemption": {
+    "exists": false,
+    "details": "No close-in-age exemption; all sex with minors under 18 is illegal."
+  },
+  "authority_figure_restrictions": {
+    "exists": true,
+    "details": "School staff are prohibited from sexual relations with students."
+  },
+  "legal_notes": "Prosecution possible even with minor-on-minor sexual activity."
+}

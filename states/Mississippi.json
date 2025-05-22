@@ -1,0 +1,13 @@
+{
+  "state": "Mississippi",
+  "age_of_consent": 16,
+  "close_in_age_exemption": {
+    "exists": false,
+    "details": "No close-in-age exemptions exist in Mississippi law."
+  },
+  "authority_figure_restrictions": {
+    "exists": true,
+    "details": "Sexual contact prohibited between persons in positions of trust/authority and minors under 18."
+  },
+  "legal_notes": "Statutory rape applies when victim is under 16, regardless of consent."
+}

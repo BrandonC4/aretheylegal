@@ -1,0 +1,13 @@
+{
+  "state": "Colorado",
+  "age_of_consent": 17,
+  "close_in_age_exemption": {
+    "exists": true,
+    "details": "10-year age difference exemption for those aged 15-16; 10+ years difference is a felony."
+  },
+  "authority_figure_restrictions": {
+    "exists": true,
+    "details": "Position of trust laws prohibit sexual contact with minors under 18."
+  },
+  "legal_notes": "Graduated age gap provisions with different penalties based on age differences."
+}

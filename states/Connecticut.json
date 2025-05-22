@@ -1,0 +1,13 @@
+{
+  "state": "Connecticut",
+  "age_of_consent": 16,
+  "close_in_age_exemption": {
+    "exists": true,
+    "details": "2-year age gap provision for those aged 13-15."
+  },
+  "authority_figure_restrictions": {
+    "exists": true,
+    "details": "School employees prohibited from sexual contact with students under their supervision."
+  },
+  "legal_notes": "Different degrees of sexual assault based on age differences and positions of authority."
+}

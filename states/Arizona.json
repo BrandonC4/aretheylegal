@@ -1,0 +1,13 @@
+{
+  "state": "Arizona",
+  "age_of_consent": 18,
+  "close_in_age_exemption": {
+    "exists": false,
+    "details": "No Romeo and Juliet law exists in Arizona."
+  },
+  "authority_figure_restrictions": {
+    "exists": true,
+    "details": "Teachers and people in positions of trust are held to higher standards."
+  },
+  "legal_notes": "Strict statutory rape laws apply for anyone under 18."
+}

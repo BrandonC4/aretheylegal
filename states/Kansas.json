@@ -1,0 +1,13 @@
+{
+  "state": "Kansas",
+  "age_of_consent": 16,
+  "close_in_age_exemption": {
+    "exists": true,
+    "details": "Less than 4-year age difference exemption for those aged 14-15."
+  },
+  "authority_figure_restrictions": {
+    "exists": true,
+    "details": "Unlawful sexual relations law prohibits contact between authority figures and students/inmates."
+  },
+  "legal_notes": "Aggravated indecent liberties with a child applies to victims under 14."
+}

@@ -1,0 +1,13 @@
+{
+  "state": "New Mexico",
+  "age_of_consent": 16,
+  "close_in_age_exemption": {
+    "exists": true,
+    "details": "4-year age gap provision for those aged 13-15."
+  },
+  "authority_figure_restrictions": {
+    "exists": true,
+    "details": "Sexual contact prohibited between school employees and students under 18."
+  },
+  "legal_notes": "Criminal sexual penetration in the fourth degree applies when victim is 13-16 and perpetrator is at least 18 and 4+ years older."
+}

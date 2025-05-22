@@ -1,0 +1,13 @@
+{
+  "state": "Minnesota",
+  "age_of_consent": 16,
+  "close_in_age_exemption": {
+    "exists": true,
+    "details": "Exemption for partners within 2 years of age for those aged 13-15."
+  },
+  "authority_figure_restrictions": {
+    "exists": true,
+    "details": "Prohibits sexual contact between persons in positions of authority and minors under 18."
+  },
+  "legal_notes": "Criminal sexual conduct laws vary based on age difference and position of authority."
+}

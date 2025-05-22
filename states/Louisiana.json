@@ -1,0 +1,13 @@
+{
+  "state": "Louisiana",
+  "age_of_consent": 17,
+  "close_in_age_exemption": {
+    "exists": false,
+    "details": "No close-in-age exemptions exist in Louisiana law."
+  },
+  "authority_figure_restrictions": {
+    "exists": true,
+    "details": "Prohibits sexual contact between educators and students under 21."
+  },
+  "legal_notes": "Carnal knowledge of a juvenile applies when victim is 13-16 and perpetrator is 19+."
+}

@@ -1,0 +1,13 @@
+{
+  "state": "Texas",
+  "age_of_consent": 17,
+  "close_in_age_exemption": {
+    "exists": true,
+    "details": "Romeo and Juliet exemption allows consensual sex with partners within 3 years."
+  },
+  "authority_figure_restrictions": {
+    "exists": true,
+    "details": "Illegal for teachers to engage in sexual conduct with students."
+  },
+  "legal_notes": "Statutory rape charges still possible in age-gap scenarios."
+}

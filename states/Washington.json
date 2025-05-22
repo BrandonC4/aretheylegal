@@ -1,0 +1,13 @@
+{
+  "state": "Washington",
+  "age_of_consent": 16,
+  "close_in_age_exemption": {
+    "exists": true,
+    "details": "Less than 5-year age difference for those aged 14-15; less than 3-year age difference for those under 14."
+  },
+  "authority_figure_restrictions": {
+    "exists": true,
+    "details": "Sexual contact prohibited between school employees and students under 21."
+  },
+  "legal_notes": "Rape of a child applies when victim is under 16 and perpetrator is at least 24 months older."
+}

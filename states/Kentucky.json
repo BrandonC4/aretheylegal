@@ -1,0 +1,13 @@
+{
+  "state": "Kentucky",
+  "age_of_consent": 16,
+  "close_in_age_exemption": {
+    "exists": true,
+    "details": "Persons under 16 may consent to partners less than 5 years older."
+  },
+  "authority_figure_restrictions": {
+    "exists": true,
+    "details": "Sexual contact prohibited between persons in positions of authority and minors under 18."
+  },
+  "legal_notes": "Third-degree rape applies when victim is under 16 and perpetrator is 21+."
+}

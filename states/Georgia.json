@@ -1,0 +1,13 @@
+{
+  "state": "Georgia",
+  "age_of_consent": 16,
+  "close_in_age_exemption": {
+    "exists": false,
+    "details": "No close-in-age exemptions exist in Georgia law."
+  },
+  "authority_figure_restrictions": {
+    "exists": true,
+    "details": "Sexual contact prohibited between teachers/administrators and students."
+  },
+  "legal_notes": "Statutory rape is a felony, with harsher penalties when the victim is under 14."
+}

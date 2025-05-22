@@ -1,0 +1,13 @@
+{
+  "state": "Utah",
+  "age_of_consent": 18,
+  "close_in_age_exemption": {
+    "exists": true,
+    "details": "Less than 10-year age difference for those aged 16-17; less than 4-year age difference for those aged 14-15."
+  },
+  "authority_figure_restrictions": {
+    "exists": true,
+    "details": "Sexual contact prohibited between persons in positions of special trust and minors under 18."
+  },
+  "legal_notes": "Unlawful sexual conduct with a 16-17 year old applies when perpetrator is 10+ years older."
+}

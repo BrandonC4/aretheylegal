@@ -1,0 +1,13 @@
+{
+  "state": "Oregon",
+  "age_of_consent": 18,
+  "close_in_age_exemption": {
+    "exists": true,
+    "details": "3-year age gap provision for those aged 15-17."
+  },
+  "authority_figure_restrictions": {
+    "exists": true,
+    "details": "Sexual contact prohibited between school employees and students under 18."
+  },
+  "legal_notes": "Third-degree sexual abuse applies when victim is 14-15 and perpetrator is less than 3 years older."
+}

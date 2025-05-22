@@ -1,0 +1,23 @@
+{
+  "name": "aretheylegal",
+  "version": "1.0.1",
+  "description": "Lookup age of consent laws and related legal notes by U.S. state.",
+  "main": "src/index.js",
+  "keywords": ["legal", "age of consent", "state law", "usa", "npm"],
+  "author": "Brandon Currie",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thecharlee12/aretheylegal"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "src/",
+    "states/",
+    "stateIndex.json",
+    "README.md",
+    "LICENSE"
+  ]
+}

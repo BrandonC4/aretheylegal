@@ -1,0 +1,13 @@
+{
+  "state": "Missouri",
+  "age_of_consent": 17,
+  "close_in_age_exemption": {
+    "exists": false,
+    "details": "No close-in-age exemptions exist in Missouri law."
+  },
+  "authority_figure_restrictions": {
+    "exists": true,
+    "details": "Sexual contact prohibited between teachers/school employees and students under 21."
+  },
+  "legal_notes": "Statutory rape and statutory sodomy laws apply when victim is under 17."
+}

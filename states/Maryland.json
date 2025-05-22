@@ -1,0 +1,13 @@
+{
+  "state": "Maryland",
+  "age_of_consent": 16,
+  "close_in_age_exemption": {
+    "exists": true,
+    "details": "4-year age gap provision for those aged 14-15."
+  },
+  "authority_figure_restrictions": {
+    "exists": true,
+    "details": "Sexual contact prohibited between persons in positions of authority and minors under 18."
+  },
+  "legal_notes": "Third-degree sexual offense applies when victim is 14-15 and perpetrator is 4+ years older."
+}

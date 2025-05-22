@@ -1,0 +1,13 @@
+{
+  "state": "Florida",
+  "age_of_consent": 18,
+  "close_in_age_exemption": {
+    "exists": true,
+    "details": "Minors aged 16-17 may engage with partners up to 23 years old."
+  },
+  "authority_figure_restrictions": {
+    "exists": true,
+    "details": "Additional penalties for those in positions of authority."
+  },
+  "legal_notes": "Under-18s protected by strict statutory rules with limited exceptions."
+}

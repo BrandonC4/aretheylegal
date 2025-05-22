@@ -1,0 +1,13 @@
+{
+  "state": "Hawaii",
+  "age_of_consent": 16,
+  "close_in_age_exemption": {
+    "exists": true,
+    "details": "5-year age gap provision for those aged 14-15."
+  },
+  "authority_figure_restrictions": {
+    "exists": true,
+    "details": "Prohibits sexual contact between persons in positions of authority and minors under 18."
+  },
+  "legal_notes": "Multiple degrees of sexual assault based on age differences and positions of trust."
+}

@@ -1,0 +1,13 @@
+{
+  "state": "Pennsylvania",
+  "age_of_consent": 16,
+  "close_in_age_exemption": {
+    "exists": true,
+    "details": "4-year age gap provision for those aged 13-15."
+  },
+  "authority_figure_restrictions": {
+    "exists": true,
+    "details": "Sexual contact prohibited between school employees and students under 18."
+  },
+  "legal_notes": "Corruption of minors applies when victim is under 18 and perpetrator is 18+."
+}

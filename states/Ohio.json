@@ -1,0 +1,13 @@
+{
+  "state": "Ohio",
+  "age_of_consent": 16,
+  "close_in_age_exemption": {
+    "exists": false,
+    "details": "No close-in-age exemptions exist in Ohio law."
+  },
+  "authority_figure_restrictions": {
+    "exists": true,
+    "details": "Sexual contact prohibited between teachers/coaches and students under 18."
+  },
+  "legal_notes": "Unlawful sexual conduct with a minor applies when victim is 13-15 and perpetrator is 18+."
+}

@@ -1,0 +1,13 @@
+{
+  "state": "Iowa",
+  "age_of_consent": 16,
+  "close_in_age_exemption": {
+    "exists": true,
+    "details": "4-year age gap provision for those aged 14-15."
+  },
+  "authority_figure_restrictions": {
+    "exists": true,
+    "details": "School employees prohibited from sexual contact with students, regardless of age."
+  },
+  "legal_notes": "Sexual exploitation by school employee is a separate offense from statutory rape."
+}

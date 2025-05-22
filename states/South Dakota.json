@@ -1,0 +1,13 @@
+{
+  "state": "South Dakota",
+  "age_of_consent": 16,
+  "close_in_age_exemption": {
+    "exists": false,
+    "details": "No close-in-age exemptions exist in South Dakota law."
+  },
+  "authority_figure_restrictions": {
+    "exists": true,
+    "details": "Sexual contact prohibited between persons in positions of authority and minors under 18."
+  },
+  "legal_notes": "Rape in the fourth degree applies when victim is 13-16 and perpetrator is 3+ years older."
+}

@@ -1,0 +1,13 @@
+{
+  "state": "Nebraska",
+  "age_of_consent": 16,
+  "close_in_age_exemption": {
+    "exists": false,
+    "details": "No close-in-age exemptions exist in Nebraska law."
+  },
+  "authority_figure_restrictions": {
+    "exists": true,
+    "details": "Sexual contact prohibited between persons in positions of authority and minors under 19."
+  },
+  "legal_notes": "Sexual assault of a child applies when victim is under 16 and perpetrator is 19+."
+}

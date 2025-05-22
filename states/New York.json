@@ -1,0 +1,13 @@
+{
+  "state": "New York",
+  "age_of_consent": 17,
+  "close_in_age_exemption": {
+    "exists": false,
+    "details": "No close-in-age exemptions exist in New York law."
+  },
+  "authority_figure_restrictions": {
+    "exists": true,
+    "details": "Sexual contact prohibited between school employees and students under 21."
+  },
+  "legal_notes": "Rape in the third degree applies when victim is under 17 and perpetrator is 21+."
+}

@@ -1,0 +1,13 @@
+{
+  "state": "Delaware",
+  "age_of_consent": 18,
+  "close_in_age_exemption": {
+    "exists": true,
+    "details": "Allows sexual activity between minors who are close in age (within 4 years)."
+  },
+  "authority_figure_restrictions": {
+    "exists": true,
+    "details": "Sexual contact prohibited between a person in position of trust and a minor under 18."
+  },
+  "legal_notes": "Different degrees of sexual offenses based on age of victim and relationship to perpetrator."
+}

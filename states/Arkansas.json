@@ -1,0 +1,13 @@
+{
+  "state": "Arkansas",
+  "age_of_consent": 16,
+  "close_in_age_exemption": {
+    "exists": true,
+    "details": "Close-in-age exemptions apply to partners within 3 years."
+  },
+  "authority_figure_restrictions": {
+    "exists": true,
+    "details": "Penalties enhanced for authority figures such as teachers."
+  },
+  "legal_notes": "Consent laws vary with context such as position of power and age gap."
+}

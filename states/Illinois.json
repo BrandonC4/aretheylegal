@@ -1,0 +1,13 @@
+{
+  "state": "Illinois",
+  "age_of_consent": 17,
+  "close_in_age_exemption": {
+    "exists": true,
+    "details": "Romeo and Juliet provision for minors aged 13-16 with partners less than 5 years older."
+  },
+  "authority_figure_restrictions": {
+    "exists": true,
+    "details": "Prohibits sexual contact between teachers/coaches and students under 18."
+  },
+  "legal_notes": "Criminal sexual abuse charges apply based on age differences and positions of authority."
+}
